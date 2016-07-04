@@ -1,1 +1,1 @@
-# LazyLoadingImages
+# Lazy Loading Images
