@@ -1,0 +1,30 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing: border-box;
+}
+
+.section{
+	width:80%;
+	margin:0 auto;
+}
+
+.section h1{
+	text-align:center;
+}
+
+.section p{
+	text-align:justify;
+}
+
+.containerImg{
+	width:450px;
+	height:auto;
+	margin:10px auto;
+	background-color:#ccc;
+	overflow:hidden;
+}
+
+.containerImg img{
+	width:100%;
+}
